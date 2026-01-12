@@ -15,7 +15,9 @@ I'm currently a front-end software engineer and UI/UX designer based in Hong Kon
 [![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://github.com/WuJoe826)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/WuJoe826)
 
+
 #### Databases
+[![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/WuJoe826)
 
 #### Front-End Frameworks
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WuJoe826)
