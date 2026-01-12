@@ -15,7 +15,6 @@ I'm currently a front-end software engineer and UI/UX designer. <br>
 <br>
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/WuJoe826)
 
-
 #### Databases
 [![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/WuJoe826)
 
@@ -35,6 +34,7 @@ I'm currently a front-end software engineer and UI/UX designer. <br>
 ## Planing To Learn
 
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+![K8N](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 <!--
 #### DevOps Tools
