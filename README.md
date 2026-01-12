@@ -3,9 +3,9 @@
 I'm currently a front-end software engineer and UI/UX designer. <br>
 
 ## About Me
-Location: Hong Kong 🇭🇰 <br>
-Experience: 5 years 🧑🏻‍💻 <br>
-Education: BSc in Computer Science, City University Of Hong Kong
+- Location: Hong Kong 🇭🇰
+- Experience: 5 years 🧑🏻‍💻
+- Education: BSc in Computer Science, City University Of Hong Kong
 
 ## Skills
 
