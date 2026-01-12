@@ -16,8 +16,9 @@ I'm currently a front-end software engineer and UI/UX designer based in Hong Kon
 #### Databases
 
 #### Front-End Frameworks
-[![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)](https://github.com/WuJoe826)
-[![Expo React Native](https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white)](https://github.com/WuJoe826)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/WuJoe826)
+[![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React)](https://github.com/WuJoe826)
+[![Expo](https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white)](https://github.com/WuJoe826)
 
 <!--
 #### Back-End Frameworks
