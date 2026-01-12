@@ -24,7 +24,7 @@ I'm currently a front-end software engineer and UI/UX designer based in Hong Kon
 -->
 
 #### Cloud Platforms
-[![SupaBase](https://img.shields.io/badge/firebase-F68410?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![SupaBase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)](https://github.com/AndrewSavetchuk)
 
 <!--
 #### DevOps Tools
