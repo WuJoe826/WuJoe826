@@ -28,13 +28,14 @@ I'm currently a front-end software engineer and UI/UX designer. <br>
 -->
 
 #### Cloud Platforms
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![SupaBase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)](https://github.com/AndrewSavetchuk)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)](https://github.com/WuJoe826)
+[![SupaBase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)](https://github.com/WuJoe826)
 
 ## Planing To Learn
 
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![K8N](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/WuJoe826)
 
 <!--
 #### DevOps Tools
