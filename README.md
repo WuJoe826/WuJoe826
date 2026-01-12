@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm currently a front-end software engineer and UI/UX designer based in Hong Kong. <br>
+I'm currently a front-end software engineer and UI/UX designer. <br>
 
 ## About Me
 - Location: Hong Kong 🇭🇰
