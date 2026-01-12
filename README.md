@@ -34,6 +34,8 @@ I'm currently a front-end software engineer and UI/UX designer based in Hong Kon
 
 ## Planing To Learn
 
+[![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)]
+
 <!--
 #### DevOps Tools
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/AndrewSavetchuk)
