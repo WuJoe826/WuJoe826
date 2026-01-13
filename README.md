@@ -8,7 +8,7 @@ my goal is to become a full-stack software engineer.
 - Experience: 5 years 🧑🏻‍💻
 - Education: Year 1 BSc in Computer Science, City University Of Hong Kong
 
-## Learning/Skills
+## Skills
 
 #### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/WuJoe826)
@@ -23,7 +23,6 @@ my goal is to become a full-stack software engineer.
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WuJoe826)
 
 #### Software Frameworks
-[![Tauri](https://img.shields.io/badge/Tauri%202.0-blue?style=for-the-badge&logo=tauri)](https://github.com/WuJoe826)
 [![React Native](https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React)](https://github.com/WuJoe826)
 [![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white)](https://github.com/WuJoe826)
 
@@ -42,6 +41,8 @@ my goal is to become a full-stack software engineer.
 
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![K8N](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+[![Tauri](https://img.shields.io/badge/Tauri%202.0-blue?style=for-the-badge&logo=tauri)](https://github.com/WuJoe826)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/WuJoe826)
 
 <!--
 #### DevOps Tools
