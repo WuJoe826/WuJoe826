@@ -1,13 +1,13 @@
 # Hi there!
 
-I'm currently a front-end software engineer and UI/UX designer. <br>
+I'm currently diving in software engineering and UI/UX design. <br>
 
 ## About Me
 - Location: Hong Kong 🇭🇰
 - Experience: 5 years 🧑🏻‍💻
-- Education: BSc in Computer Science, City University Of Hong Kong
+- Education: Year 1 BSc in Computer Science, City University Of Hong Kong
 
-## Skills
+## Learning/Skills
 
 #### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/WuJoe826)
@@ -21,7 +21,10 @@ I'm currently a front-end software engineer and UI/UX designer. <br>
 #### Front-End Frameworks
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WuJoe826)
 [![React Native](https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React)](https://github.com/WuJoe826)
+
+#### Software Frameworks
 [![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white)](https://github.com/WuJoe826)
+[![Tauri](https://img.shields.io/badge/Tauri%202.0-blue?style=for-the-badge&logo=tauri)
 
 <!--
 #### Back-End Frameworks
