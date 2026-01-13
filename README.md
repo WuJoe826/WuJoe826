@@ -14,7 +14,7 @@ my goal is to become a full-stack software engineer.
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)](https://github.com/WuJoe826)
 [![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://github.com/WuJoe826)
 <br>
-[![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/WuJoe826)
+[![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3673A9)](https://github.com/WuJoe826)
 
 #### Databases
 [![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/WuJoe826)
