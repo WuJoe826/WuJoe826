@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm currently diving in software engineering and UI/UX design. <br>
+I'm currently diving in software engineering and UI/UX design.
 
 ## About Me
 - Location: Hong Kong 🇭🇰
