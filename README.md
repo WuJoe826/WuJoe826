@@ -11,19 +11,19 @@ my goal is to become a full-stack software engineer.
 ## Skills
 
 #### Languages
-[![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/WuJoe826)
-[![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://github.com/WuJoe826)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/WuJoe826)
+[![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://github.com/WuJoe826)
 <br>
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/WuJoe826)
+[![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/WuJoe826)
 
 #### Databases
-[![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/WuJoe826)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/WuJoe826)
 
 #### Front-End Frameworks
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WuJoe826)
+[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WuJoe826)
 
 #### Software Frameworks
-[![React Native](https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React)](https://github.com/WuJoe826)
+[![React Native](https://img.shields.io/badge/-React%20native-000000?style=for-the-badge&logo=React)](https://github.com/WuJoe826)
 [![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white)](https://github.com/WuJoe826)
 
 <!--
@@ -31,19 +31,19 @@ my goal is to become a full-stack software engineer.
 -->
 
 #### Cloud Platforms
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)](https://github.com/WuJoe826)
-[![SupaBase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)](https://github.com/WuJoe826)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)](https://github.com/WuJoe826)
+[![SupaBase](https://shields.io/badge/supabase-000000?logo=supabase&style=for-the-badge)](https://github.com/WuJoe826)
 
 #### Tools
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/WuJoe826)
+[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/WuJoe826)
 
 ## Planing To Learn
 
-![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
-![K8N](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-[![Tauri](https://img.shields.io/badge/Tauri%202.0-blue?style=for-the-badge&logo=tauri)](https://github.com/WuJoe826)
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![K8N](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=Kubernetes&logoColor=white)
+[![Tauri](https://img.shields.io/badge/Tauri%202.0-000000?style=for-the-badge&logo=tauri)](https://github.com/WuJoe826)
 <br>
-[![Electron](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://github.com/WuJoe826)
+[![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://github.com/WuJoe826)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/WuJoe826)
 
 
