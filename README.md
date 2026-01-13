@@ -41,7 +41,7 @@ my goal is to become a full-stack software engineer.
 
 ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![K8N](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=Kubernetes&logoColor=white)
-[![Tauri](https://img.shields.io/badge/Tauri%202.0-000000?style=for-the-badge&logo=tauri&logoColor=ffc131&labelColor=24c8db)](https://github.com/WuJoe826)
+[![Tauri](https://img.shields.io/badge/Tauri%202.0-000000?style=for-the-badge&logo=tauri&logoColor=ffc131&labelColor=124247)](https://github.com/WuJoe826)
 <br>
 [![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://github.com/WuJoe826)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=2C1D0E&logo=rust&logoColor=F57F01)](https://github.com/WuJoe826)
