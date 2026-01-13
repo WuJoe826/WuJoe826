@@ -44,7 +44,7 @@ my goal is to become a full-stack software engineer.
 [![Tauri](https://img.shields.io/badge/Tauri%202.0-000000?style=for-the-badge&logo=tauri)](https://github.com/WuJoe826)
 <br>
 [![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://github.com/WuJoe826)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/WuJoe826)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=F57F01)](https://github.com/WuJoe826)
 
 
 <!--
