@@ -24,7 +24,7 @@ my goal is to become a full-stack software engineer.
 
 #### Software Frameworks
 [![React Native](https://img.shields.io/badge/-React%20native-000000?style=for-the-badge&logo=React)](https://github.com/WuJoe826)
-[![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&labelColor=5D5D5D&logo=Expo&logoColor=white)](https://github.com/WuJoe826)
+[![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&labelColor=232323&logo=Expo&logoColor=white)](https://github.com/WuJoe826)
 
 <!--
 #### Back-End Frameworks
