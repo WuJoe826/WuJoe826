@@ -1,6 +1,7 @@
 # Hi there!
 
-I'm currently diving in software engineering and UI/UX design.
+I'm currently diving in software engineering and UI/UX design, <br>
+my goal is to become a full-stack software engineer.
 
 ## About Me
 - Location: Hong Kong 🇭🇰
