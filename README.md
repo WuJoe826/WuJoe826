@@ -20,11 +20,11 @@ I'm currently diving in software engineering and UI/UX design. <br>
 
 #### Front-End Frameworks
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WuJoe826)
-[![React Native](https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React)](https://github.com/WuJoe826)
 
 #### Software Frameworks
+[![Tauri](https://img.shields.io/badge/Tauri%202.0-blue?style=for-the-badge&logo=tauri)]
+[![React Native](https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React)](https://github.com/WuJoe826)
 [![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white)](https://github.com/WuJoe826)
-[![Tauri](https://img.shields.io/badge/Tauri%202.0-blue?style=for-the-badge&logo=tauri)
 
 <!--
 #### Back-End Frameworks
