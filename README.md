@@ -9,6 +9,7 @@ I'm currently diving in software engineering and UI/UX design.
 
 #### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)](https://github.com/WuJoe826)
+[![JavaScript](https://shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=000&style=for-the-badge&labelColor=F7DF1E)](https://github.com/WuJoe826)
 [![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=ebebeb)](https://github.com/WuJoe826)
 [![GDScript](https://img.shields.io/badge/GdScript-000000?style=for-the-badge&logo=godotengine&logoColor=fff&labelColor=478CBF)](https://github.com/WuJoe826)
 <br>
