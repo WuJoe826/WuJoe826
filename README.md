@@ -12,6 +12,7 @@ I'm currently diving in software engineering and UI/UX design.
 [![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://github.com/WuJoe826)
 <br>
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3673A9)](https://github.com/WuJoe826)
+[![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=00599C)](https://github.com/WuJoe826)
 
 #### Databases
 [![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/WuJoe826)
