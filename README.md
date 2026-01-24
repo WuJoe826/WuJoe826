@@ -1,11 +1,9 @@
 # Hi there!
 
-I'm currently diving in software engineering and UI/UX design, <br>
-my goal is to become a full-stack software engineer.
+I'm currently diving in software engineering and UI/UX design.
 
 ## About Me
 - Location: Hong Kong 🇭🇰
-- Experience: 5 years 🧑🏻‍💻
 - Education: Year 1 BSc in Computer Science, City University Of Hong Kong
 
 ## Skills
