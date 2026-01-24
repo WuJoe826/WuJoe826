@@ -1,5 +1,4 @@
 # Hi there!
-
 I'm currently diving in software engineering and UI/UX design.
 
 ## About Me
