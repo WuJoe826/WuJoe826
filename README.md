@@ -39,7 +39,7 @@ I'm currently diving in software engineering and UI/UX design.
 
 ## Planing To Learn
 
-![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=257bd6)
 ![K8N](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=Kubernetes&logoColor=white)
 [![Tauri](https://img.shields.io/badge/Tauri%202.0-000000?style=for-the-badge&logo=tauri&logoColor=ffc131&labelColor=124247)](https://github.com/WuJoe826)
 <br>
