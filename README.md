@@ -35,7 +35,7 @@ I'm currently diving in software engineering and UI/UX design.
 [![SupaBase](https://shields.io/badge/supabase-000000?logo=supabase&style=for-the-badge)](https://github.com/WuJoe826)
 
 #### Tools
-[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/WuJoe826)
+[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)](https://github.com/WuJoe826)
 
 ## Planing To Learn
 
