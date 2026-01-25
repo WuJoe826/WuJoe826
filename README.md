@@ -46,6 +46,11 @@ I'm currently diving in software engineering and UI/UX design.
 [![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://github.com/WuJoe826)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=2C1D0E&logo=rust&logoColor=F57F01)](https://github.com/WuJoe826)
 
+## My stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wqLouis&show_icons=true&theme=radical)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wqLouis&layout=compact&theme=radical)
 
 <!--
 #### DevOps Tools
@@ -71,8 +76,6 @@ I'm currently diving in software engineering and UI/UX design.
 --<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSavetchuk" alt="Contributions Info" />
 -->
 
-<!--
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewsavetchuk)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndrewSavetchuk)
--->
