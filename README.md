@@ -20,7 +20,7 @@ I'm currently diving in software engineering and UI/UX design.
 [![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169e1)](https://github.com/WuJoe826)
 
 #### Front-End Frameworks
-[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WuJoe826)
+[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)](https://github.com/WuJoe826)
 
 #### Software Frameworks
 [![React Native](https://img.shields.io/badge/-React%20native-000000?style=for-the-badge&logo=React)](https://github.com/WuJoe826)
