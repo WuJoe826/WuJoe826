@@ -32,7 +32,7 @@ I'm currently diving in software engineering and UI/UX design.
 
 #### Cloud Platforms
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?&style=for-the-badge&logo=Google%20Cloud&logoColor=white&labelColor=4285F4)](https://github.com/WuJoe826)
-[![SupaBase](https://shields.io/badge/supabase-000000?logo=supabase&style=for-the-badge)](https://github.com/WuJoe826)
+[![SupaBase](https://shields.io/badge/supabase-000000?logo=supabase&style=for-the-badge&labelColor=232323)](https://github.com/WuJoe826)
 
 #### Tools
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)](https://github.com/WuJoe826)
