@@ -23,7 +23,7 @@ I'm currently diving in software engineering and UI/UX design.
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)](https://github.com/WuJoe826)
 
 #### Software Frameworks
-[![React Native](https://img.shields.io/badge/-React%20native-000000?style=for-the-badge&logo=React)](https://github.com/WuJoe826)
+[![React Native](https://img.shields.io/badge/-React%20native-000000?style=for-the-badge&logo=React&labelColor=232323)](https://github.com/WuJoe826)
 [![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&labelColor=232323&logo=Expo&logoColor=white)](https://github.com/WuJoe826)
 
 <!--
