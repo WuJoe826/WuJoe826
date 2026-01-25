@@ -5,7 +5,7 @@ I'm currently diving in software engineering and UI/UX design.
 - Location: Hong Kong 🇭🇰
 - Education: Year 1 BSc in Computer Science, City University Of Hong Kong
 
-## Skills (Not proficient)
+## Learning
 
 #### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)](https://github.com/WuJoe826)
