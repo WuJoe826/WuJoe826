@@ -17,7 +17,7 @@ I'm currently diving in software engineering and UI/UX design.
 [![GDScript](https://img.shields.io/badge/GdScript-000000?style=for-the-badge&logo=godotengine&logoColor=fff&labelColor=478CBF)](https://github.com/WuJoe826)
 
 #### Databases
-[![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/WuJoe826)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169e1)](https://github.com/WuJoe826)
 
 #### Front-End Frameworks
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WuJoe826)
