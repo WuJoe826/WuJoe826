@@ -5,7 +5,7 @@ I'm currently diving in software engineering and UI/UX design.
 - Location: Hong Kong 🇭🇰
 - Education: Year 1 BSc in Computer Science, City University Of Hong Kong
 
-## Learning
+## Learning/Skills
 
 #### Languages
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3673A9)](https://github.com/WuJoe826)
