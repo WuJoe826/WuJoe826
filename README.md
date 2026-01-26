@@ -53,8 +53,6 @@ I'm currently diving in software engineering and UI/UX design.
 ## My stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WuJoe826&show_icons=true&theme=tokyonight)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WuJoe826&layout=compact&theme=tokyonight)
 
 <!--
 #### DevOps Tools
