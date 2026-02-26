@@ -50,9 +50,11 @@ I'm currently diving in software engineering and UI/UX design.
 [![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://github.com/WuJoe826)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=2C1D0E&logo=rust&logoColor=F57F01)](https://github.com/WuJoe826)
 
+<!--
 ## My stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WuJoe826&show_icons=true&theme=tokyonight)
+-->
 
 <!--
 #### DevOps Tools
