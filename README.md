@@ -1,4 +1,4 @@
-# Hi there! I‘m Joe Wu
+# Hi there! I‘m Joe Wu 👋
 
 ## About Me
 - Location: Hong Kong 🇭🇰
