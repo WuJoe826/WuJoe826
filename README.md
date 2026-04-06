@@ -1,5 +1,4 @@
-# Hi there!
-I'm currently diving in software engineering and UI/UX design.
+# Hi there! I‘m Joe Wu
 
 ## About Me
 - Location: Hong Kong 🇭🇰
