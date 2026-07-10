@@ -39,10 +39,10 @@
 
 #### Tools
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)](https://github.com/WuJoe826)
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=257bd6)
 
 ## Planing To Learn
 
-![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=257bd6)
 ![K8N](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=Kubernetes&logoColor=white&labelColor=326CE5)
 [![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=ffc131&labelColor=124247)](https://github.com/WuJoe826)
 <br>
