@@ -38,7 +38,6 @@
 [![SupaBase](https://shields.io/badge/supabase-000000?logo=supabase&style=for-the-badge&labelColor=232323)](https://github.com/WuJoe826)
 
 #### Tools
-[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)](https://github.com/WuJoe826)
 ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=257bd6)
 
 ## Planing To Learn
@@ -48,6 +47,7 @@
 <br>
 [![Electron](https://img.shields.io/badge/-electron-000000?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://github.com/WuJoe826)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=2C1D0E&logo=rust&logoColor=F57F01)](https://github.com/WuJoe826)
+[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)](https://github.com/WuJoe826)
 
 <!--
 ## My stats
